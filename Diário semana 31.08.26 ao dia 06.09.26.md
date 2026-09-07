@@ -23,11 +23,11 @@ A tradução era algo que eu esperava que fosse simples e rápido, mas a quantid
 
 Depois de alguns dias, percebi que seria necessário entrar em contato direto com os desenvolvedores do projeto para tirar minhas dúvidas, porque não sabia que canal usar para entrar em contato, se haviam muitas pessoas ativas na tradução, então enviei essas dúvidas e minha apresentação pessoal pelo e-mail a seguir: 
 
-![e-mail]({E866E437-FB0E-40BF-A6A4-93D7BD21ADBE}.png)
+![e-mail](imagens/{E866E437-FB0E-40BF-A6A4-93D7BD21ADBE}.png)
 
 Esse e-mail foi prontamente respondido no dia seguinte pelo responsável do projeto, Christian Buhtz:
 
-     "    
+     
           Hello Sara,
 
           thank you for your message and your efforts to participate.
@@ -77,16 +77,16 @@ Esse e-mail foi prontamente respondido no dia seguinte pelo responsável do proj
 
           Best regards,
           Christian Buhtz
-     "
+     
 
 Devido à essa resposta, me torneira responsável principal pela tradução da aplicação para português, ganhando funções de 'maintainer' no codeberg, me oferecendo total autoridade para realizar alterações estratégicas de tradução para adaptação do público brasileiro.
 
 Antes de receber a resposta extremamente positiva, já tinha enviado um comentário para tirar dúvidas pela [plataforma](https://translate.codeberg.org/translate/backintime/common/pt_BR/?checksum=5369b3929d2073e0&q=state%3A%3Ctranslated&sort_by=component%2C-priority) sobre alguns padrões de tradução de software que eu achava relevantes pela plataforma do codeberg:
-![comentário de tradução com a minha pergunta]({2527B5FD-57E4-49F1-857C-DE311ABB7166}.png) 
+![comentário de tradução com a minha pergunta](imagens/{2527B5FD-57E4-49F1-857C-DE311ABB7166}.png) 
 
 Sobre a qual recebi uma resposta positiva sobre a simplificação da tradução existente anteriormente feita por outro tradutor.
 
-![comentário de resposta de Buhtz]({47DB92D7-AED8-41B0-A8E8-C11C2B2E3049}.png)
+![comentário de resposta de Buhtz](imagens/{47DB92D7-AED8-41B0-A8E8-C11C2B2E3049}.png)
 
 O que me deu confiança de que esta afirmação de que eu seria a principal responsável fosse reiterada.
 
@@ -100,9 +100,9 @@ Estou considerando baixar e executar a versão Release Candidate (v2.0.0-rc2) en
 
 Resumo de links:
 
-     [site de tradução](https://codeberg.org)
-     [github do Back In Time](https://github.com/bit-team/backintime)
-     [comentário específico disponível nessen link com a respota de Buhtz](https://translate.codeberg.org/translate/backintime/common/pt_BR/?checksum=5369b3929d2073e0&q=state%3A%3Ctranslated&sort_by=component%2C-priority)
-     [Minhas 72 (ou mais, dependendo de quando o link for aberto) de traduções](https://translate.codeberg.org/memory/)
+* [Site de tradução](https://codeberg.org)
+* [Github do Back In Time](https://github.com/bit-team/backintime)
+* [Comentário específico disponível nessen link com a respota de Buhtz](https://translate.codeberg.org/translate/backintime/common/pt_BR/?checksum=5369b3929d2073e0&q=state%3A%3Ctranslated&sort_by=component%2C-priority)
+* [Minhas 72 (ou mais, dependendo de quando o link for aberto) de traduções](https://translate.codeberg.org/memory/)
 
 Todas as imagens de diários estão disponíveis na pasta "imagens". Ao final do semestre, será realizado um README contando sobre o projeto da disciplina de forma mais abrangente.
